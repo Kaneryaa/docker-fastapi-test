@@ -45,5 +45,5 @@ sudo apt-get install docker-compose -y
 docker-compose --version
 
 # clone the repository from the github
-git clone https://github.com/Kaneryaa/portfolio-responsive-complete.git
+git clone https://github.com/Kaneryaa/docker-fastapi-test.git
 ```
