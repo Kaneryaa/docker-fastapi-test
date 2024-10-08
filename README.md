@@ -47,3 +47,8 @@ docker-compose --version
 # clone the repository from the github
 git clone https://github.com/Kaneryaa/docker-fastapi-test.git
 ```
+
+![image](https://github.com/user-attachments/assets/dfd27161-9d3f-42a3-846c-354fe4ba8adf)
+![image](https://github.com/user-attachments/assets/0f3f5bc0-c3d7-4e55-bf27-b2bed1abfba2)
+
+
